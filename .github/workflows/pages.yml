@@ -1,3 +1,4 @@
+# Independent static deployment; traffic is served by GitHub Pages.
 name: Deploy to GitHub Pages
 
 on:
